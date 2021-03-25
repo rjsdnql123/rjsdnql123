@@ -1,6 +1,6 @@
 ### <div align="center">가치를 더하는 개발자 입니다.</div>  
   
-
+### Let me introduce myself
 -  ⚡ 협업에 최적화된 개발자 입니다  
   
 
@@ -29,21 +29,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rjsdnql123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-  
+## Connect with me
+Gmail rjsdnql123@gmail.com
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+blog https://velog.io/@rjsdnql123
