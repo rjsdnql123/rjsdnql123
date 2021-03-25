@@ -1,17 +1,49 @@
-### Hi there 👋
+### <div align="center">가치를 더하는 개발자 입니다.</div>  
+  
 
-<!--
-**rjsdnql123/rjsdnql123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  ⚡ 협업에 최적화된 개발자 입니다  
+  
 
-Here are some ideas to get you started:
+- 🔭 끊임없이 공부하는 개발자 입니다.  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rjsdnql123)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 사용자를 생각하는 개발자 입니다.  
+  
+
+- ❓ 새로운 기술을 배우는것에 즐거움을 느끼는 개발자 입니다.  
+  
+
+<br/>  
+
+
+
+<br/>  
+
+
+  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rjsdnql123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
