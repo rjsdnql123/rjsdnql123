@@ -22,6 +22,8 @@
   <ul>
     <li> ⚒️ 테스트 코드를 짜며, 오픈 소스에 기여하고 있습니다. https://github.com/toss/slash</li>
     <li>👨‍🎨 구글에서 낸 Qwik라이브러리에 관심이 있어요. 최근에는 Docs에 간단하게 기여해 컨트리뷰트 했습니다.</li>
+	  <li>프레임워크는 어떻게 만들었고, 우리가 알수 없는 내부동작은 어떻게 동작할까? 라는 생각에서 프레임워크를 만들어 보고 있습니다. https://github.com/rjsdnql123/framework_custom</li>
+	  
   </ul>
   </section>
  
