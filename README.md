@@ -11,7 +11,7 @@
     <li>⚡ 협업에 최적화된 개발자 입니다  </li>
     <li>🔭 끊임없이 공부하는 개발자 입니다.   </li>
     <li>🌱 사용자를 생각하는 개발자 입니다.    </li>
-	  <li>🗣 커뮤니케이션에 특화된 개발자 입니다. </li>
+	<li>🗣 커뮤니케이션에 특화된 개발자 입니다. </li>
     <li>❓ 새로운 기술을 배우는것에 즐거움을 느끼는 개발자 입니다. </li>
 
   </ul>
@@ -22,8 +22,11 @@
   <ul>
     <li>프레임워크는 어떻게 만들었고, 우리가 알수 없는 내부동작은 어떻게 동작할까? 라는 생각에서 프레임워크를 만들어 보고 있습니다. https://github.com/rjsdnql123/framework_custom</li>
     <li> ⚒️ 테스트 코드를 짜며, 오픈 소스에 기여하고 있습니다. https://github.com/toss/slash</li>
+    <li>다양한 오픈소스를 보며, 얻은 인사이드를 이용하여 design-system을 monorepo를 이용하여 개발하고 있습니다.</li>
     <li> 오픈소스를 뜯어보는 것을 즐기고 있습니다.</li>
-	  
+	<li>Shadow DOM을 React Component 처럼 작성할 수 있는 라이브러리르 만들고 있습니다.
+	https://velog.io/@rjsdnql123/ShadowDOM
+	</li>
 	  
   </ul>
   </section>
