@@ -2,73 +2,32 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
-  <body>
-  
-<h1 align="center"> 끊임없이 도전하는 개발자 입니다. </h1>  
-<section>
-  <h1>저는 이런 사람입니다</h1>
-  <ul>
-    <li>⚡ 협업에 최적화된 개발자 입니다  </li>
-    <li>🔭 끊임없이 공부하는 개발자 입니다.   </li>
-    <li>🌱 사용자를 생각하는 개발자 입니다.    </li>
-	<li>🗣 커뮤니케이션에 특화된 개발자 입니다. </li>
-    <li>❓ 새로운 기술을 배우는것에 즐거움을 느끼는 개발자 입니다. </li>
+## 👋 Hi, I'm Gunwoo
 
-  </ul>
-  </section>
-    
- <section>
-  <h1>요즘엔 ㅇㅇ에 관심이 있습니다.</h1>
-  <ul>
-    <li>프레임워크는 어떻게 만들었고, 우리가 알수 없는 내부동작은 어떻게 동작할까? 라는 생각에서 프레임워크를 만들어 보고 있습니다. https://github.com/rjsdnql123/framework_custom</li>
-    <li> ⚒️ 테스트 코드를 짜며, 오픈 소스에 기여하고 있습니다. https://github.com/toss/slash</li>
-    <li>다양한 오픈소스를 보며, 얻은 인사이드를 이용하여 design-system을 monorepo를 이용하여 개발하고 있습니다.</li>
-    <li> 오픈소스를 뜯어보는 것을 즐기고 있습니다.</li>
-	<li>Shadow DOM을 React Component 처럼 작성할 수 있는 라이브러리르 만들고 있습니다.
-	https://velog.io/@rjsdnql123/ShadowDOM
-	</li>
-	  
-  </ul>
-  </section>
- 
+프론트엔드 개발자로서 사용자 경험, 서비스 구조, 그리고 개발자 경험(DX)을 개선하는 데 집중하고 있습니다.  
+단순한 기능 구현보다 **문제를 어떻게 정의하고, 구조적으로 해결할지**를 더 중요하게 생각합니다.
 
-<br/>  
+특히 성능 최적화와 상태 관리, 그리고 복잡한 흐름을 단순하게 만드는 구조 설계에 관심이 많습니다.  
+실제 서비스에서 렌더링 전략과 구조 개선을 통해 Lighthouse 지표를 62 → 87까지 개선한 경험이 있습니다.
 
-<br/>  
+또한 반복되는 작업을 줄이고 팀 전체의 생산성을 높이기 위해  
+AI와 자동화(n8n, Amazon Q 등)를 활용한 개발 환경 개선에도 관심을 가지고 있습니다.
+
+---
+
+### 💡 What I focus on
+
+- 사용자 경험을 개선하는 성능 최적화 (LCP, TTFB, 렌더링 전략)
+- 상태 관리 단순화 (State Machine, predictable flow)
+- 확장 가능한 프론트엔드 아키텍처 설계 (FSD, FSM 기반 설계)
+- 개발 생산성을 높이는 자동화 및 도구화
 
 
-  
-  
+### 🤝 About Me
 
-<br/>  
+좋은 코드는 단순히 동작하는 코드가 아니라  
+**이해하기 쉽고, 확장 가능하며, 팀 전체에 도움이 되는 코드**라고 생각합니다.
 
+기술 자체보다 “왜 이렇게 설계했는지”를 설명할 수 있는 개발자가 되기 위해 노력하고 있습니다.
 
-<!-- ## Github Stats   -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rjsdnql123&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" align="center" /></div>  
-
-    
-
-    
-<h3 align="center">📚 Tech Stack 📚</h3>
-   
-<p align="center">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>&nbsp 
-  <br>
-  	<img src="https://img.shields.io/badge/react-query-FF4154?style=flat&logo=reactquery&logoColor=white" />
-	<img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=nextdotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/react-hookform-EC5990?style=flat&logo=reacthookform&logoColor=white" />
-	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
-  <br>
-	<img src="https://img.shields.io/badge/angular-DD0031?style=flat&logo=angular&logoColor=white" />
-	<img src="https://img.shields.io/badge/reduxsaga-999999?style=flat&logo=reduxsaga&logoColor=white" />
-	<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-</p>
-
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://velog.io/@rjsdnql123"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="mailto:rjsdnql123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rjsdnql123@gmail.com"/></a>
-</p>
+---
